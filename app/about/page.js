@@ -1,3 +1,8 @@
+export const metadata = {
+    title: 'about my movie database',
+    description: 'lorem ipsum dolor sit, amet'
+}
+
 export default function Page(){
     return(
         <main className="p-8">
